@@ -1,3 +1,3 @@
 
 + const safeInput = sanitize(userInput);
-+ executeCode(safeInput);
++ executeCode(safeInputz);
